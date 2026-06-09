@@ -1,0 +1,52 @@
+Web purpose -> I want to introduce myself and 
+               show my beginner web projects.
+
+The themes I want to use -> Dark background, 
+                            Purple gradient, 
+                            Clean student portfolio, 
+                            Modern but simple. 
+
+Pages number and why 
+1. Home - first impression 
+2. About - who I am 
+3. portfolio - what I built 
+4. Contact - how to reach me 
+
+Home Page 
+What should people know first? 
+Ans: My name, My major/goal, What I am learning, 
+     Button to see projects, Small project preview 
+
+HTML -> header, 
+        nav,
+        main, 
+        section class = "hero", 
+        section class = "featured-projects", 
+        footer
+
+CSS -> Flexbox → navbar and hero
+       Grid → project preview cards 
+
+About Page
+Who am I?
+Ans: Han Thu, student, learning web development, 
+     goal is software engineering. 
+
+portfolio Page 
+What proof can I show?
+Ans: Zoo, Furniture Emporium, Fullstack Bakery, Garden.
+
+Contact Page 
+How can someone contact me?
+Ans: Email, Github, LinkedIn, Simple contact from
+
+Design Thinking
+1. Write HTML structure first
+2. Add navbar links
+3. Add content
+4. Add CSS layout
+5. Add colors
+6. Add card design
+7. Test all pages
+8. Push to GitHub
+
