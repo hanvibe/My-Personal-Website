@@ -1,0 +1,39 @@
+.page-title {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.page-title h1{
+    font-size: 45px;
+    color: #d946ef;
+}
+
+.page-title p{
+    color: #d4d8dd;
+}
+
+.about-section {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.photo-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #d946ef;
+    border-radius: 20px;
+    background: linear-gradient(to bottom right, #7c3aed, #111122);
+    width: 300px;
+    height: 300px;
+}
+
+.about-text {
+    flex: 1;
+}
+
+.about-text p {
+    line-height: 1.6;
+    color: #d4d8dd;
+}

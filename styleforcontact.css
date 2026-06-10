@@ -1,0 +1,36 @@
+.contact-section{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 30px;
+}
+
+.contact-form{
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    background-color: #090911;
+    border: 1px soild #2f2450;
+    border-radius: 8px;
+    color: white;
+    padding: 12px;
+}
+
+textarea{
+    height: 130px;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    background-color: #0c0c18;
+    margin-top: 40px;
+    color: #9ca3af;
+}
